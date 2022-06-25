@@ -25,6 +25,7 @@
         "price": {
           "type": "price",
           "settings": {
+            "color_scheme": "background-1"
           }
         },
         "variant_picker": {
